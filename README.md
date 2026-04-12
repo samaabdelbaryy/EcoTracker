@@ -40,7 +40,7 @@ pip install streamlit numpy pandas plotly scikit-learn psutil
 ### Run the app
 
 ```bash
-streamlit run "EcoTracker_-_Green_AI_Analytics.py"
+streamlit run "EcoTracker - Green_AI_Analytics.py"
 ```
 
 The app will open in your browser at `http://localhost:8501`.
@@ -77,8 +77,8 @@ The **🌿 Auto-select green models** button in the sidebar suggests the most en
 ## Project structure
 
 ```
-EcoTracker_-_Green_AI_Analytics.py   # Main Streamlit application
-EcoTracker_-_References.md           # Data sources and formula references
+EcoTracker - Green_AI_Analytics.py   # Main Streamlit application
+EcoTracker - References.md           # Data sources and formula references
 README.md                            # This file
 ```
 
@@ -119,13 +119,13 @@ water_L = (energy_wh / 1000) × 2.3
 
 **Green Score** — composite index normalised across CO₂, water, energy, cost, rare-earth, and training time. Higher = greener.
 
-Full formula references are in `EcoTracker_-_References.md`.
+Full formula references are in `EcoTracker - References.md`.
 
 ---
 
 ## References
 
-See [`EcoTracker_-_References.md`](EcoTracker - References.md) for the full list of sources covering CO₂ intensity data, water consumption factors, Egyptian electricity pricing, tree absorption rates, and formula derivations.
+See [`EcoTracker - References.md`] for the full list of sources covering CO₂ intensity data, water consumption factors, Egyptian electricity pricing, tree absorption rates, and formula derivations.
 
 ---
 
