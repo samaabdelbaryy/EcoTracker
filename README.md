@@ -1,5 +1,7 @@
 # 🌱 EcoTracker — Green AI Analytics
 
+🌐 Live demo → https://ecotrackerr.streamlit.app/
+
 **Nile Delta crop yield prediction · Real-time environmental footprint benchmarking for ML models**
 
 EcoTracker is a Streamlit dashboard that trains multiple machine learning models on simulated Egyptian farm data and measures the environmental cost of each one — CO₂ emissions, water consumption, energy use, rare-earth mineral proxy, and electricity cost — in real time. The goal is to help practitioners make sustainable AI choices without sacrificing the accuracy needed for agricultural decision-making.
